@@ -5,7 +5,7 @@ authors = ["Quentin Boyer <qbsecond@gmail.com>"]
 edition = "2018"
 
 description = "Some stats on MTG decks to help deckbuilding. For now categories probabilties per turn"
-license = "MIT"
+license = "GPL-3-or-later"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
