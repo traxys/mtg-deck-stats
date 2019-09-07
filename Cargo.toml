@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["Quentin Boyer <qbsecond@gmail.com>"]
 edition = "2018"
 
+
+repository = "https://github.com/traxys/mtg-deck-stats"
 description = "Some stats on MTG decks to help deckbuilding. For now categories probabilties per turn"
 license = "GPL-3-or-later"
 
