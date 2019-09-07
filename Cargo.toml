@@ -7,7 +7,7 @@ edition = "2018"
 
 repository = "https://github.com/traxys/mtg-deck-stats"
 description = "Some stats on MTG decks to help deckbuilding. For now categories probabilties per turn"
-license = "GPL-3-or-later"
+license = "GPL-3.0-or-later"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
